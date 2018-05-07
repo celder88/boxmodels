@@ -1,2 +1,2 @@
 # boxmodels
-For learning new techniques and code for multi-dimensional box models
+For learning new techniques and code for building multi-dimensional box models
